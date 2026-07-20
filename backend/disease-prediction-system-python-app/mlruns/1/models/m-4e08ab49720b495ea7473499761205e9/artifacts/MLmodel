@@ -1,0 +1,23 @@
+artifact_path: file:///E:/Freelancing_Projects/Machine_Learning_Projects/Disease_Prediction_System/backend/disease-prediction-system-python-app/mlruns/1/models/m-4e08ab49720b495ea7473499761205e9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: pickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-4e08ab49720b495ea7473499761205e9
+model_size_bytes: 1950981
+model_uuid: m-4e08ab49720b495ea7473499761205e9
+prompts: null
+run_id: c60e2b75b58c41a0a18b5085a50216cf
+utc_time_created: '2026-07-16 03:03:48.824509'

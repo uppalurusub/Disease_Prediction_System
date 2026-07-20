@@ -1,0 +1,151 @@
+patient_id,symptoms,doctor_notes,disease_label
+PID1000,"headache, chest tightness, dizziness","Medical notes indicate headache, chest tightness, dizziness. Risk factors associated with hypertension.",Hypertension
+PID1001,"swelling, back pain, fatigue","Patient experiencing swelling, back pain, fatigue. Monitoring and follow-up advised.",Kidney Disease
+PID1002,"fatigue, thirst, frequent urination","Patient reports fatigue, thirst, frequent urination. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1003,"palpitations, dizziness, chest pain","Patient reports palpitations, dizziness, chest pain. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1004,"blurred vision, headache, chest tightness","Patient experiencing blurred vision, headache, chest tightness. Monitoring and follow-up advised.",Hypertension
+PID1005,"frequent urination, blurred vision, fatigue","Patient experiencing frequent urination, blurred vision, fatigue. Monitoring and follow-up advised.",Diabetes
+PID1006,"swelling, back pain, fatigue","Observed symptoms include swelling, back pain, fatigue. Additional laboratory testing recommended.",Kidney Disease
+PID1007,"headache, chest tightness, dizziness","Observed symptoms include headache, chest tightness, dizziness. Additional laboratory testing recommended.",Hypertension
+PID1008,"persistent cough, fatigue, night sweats","Symptoms recorded: persistent cough, fatigue, night sweats. Physician suspects early-stage cancer risk.",Cancer Risk
+PID1009,"normal appetite, good sleep, stable vitals","Patient experiencing normal appetite, good sleep, stable vitals. Monitoring and follow-up advised.",Healthy
+PID1010,"headache, chest tightness, blurred vision","Symptoms recorded: headache, chest tightness, blurred vision. Physician suspects early-stage hypertension.",Hypertension
+PID1011,"good sleep, stable vitals, mild fatigue","Patient reports good sleep, stable vitals, mild fatigue. Clinical evaluation suggests possible healthy.",Healthy
+PID1012,"stable vitals, normal appetite, good sleep","Symptoms recorded: stable vitals, normal appetite, good sleep. Physician suspects early-stage healthy.",Healthy
+PID1013,"blurred vision, headache, chest tightness","Observed symptoms include blurred vision, headache, chest tightness. Additional laboratory testing recommended.",Hypertension
+PID1014,"fatigue, thirst, frequent urination","Symptoms recorded: fatigue, thirst, frequent urination. Physician suspects early-stage diabetes.",Diabetes
+PID1015,"chest pain, palpitations, shortness of breath","Patient experiencing chest pain, palpitations, shortness of breath. Monitoring and follow-up advised.",Heart Disease
+PID1016,"frequent urination, thirst, fatigue","Patient experiencing frequent urination, thirst, fatigue. Monitoring and follow-up advised.",Diabetes
+PID1017,"stable vitals, mild fatigue, good sleep","Patient experiencing stable vitals, mild fatigue, good sleep. Monitoring and follow-up advised.",Healthy
+PID1018,"fatigue, weight loss, persistent cough","Patient reports fatigue, weight loss, persistent cough. Clinical evaluation suggests possible cancer risk.",Cancer Risk
+PID1019,"night sweats, weight loss, persistent cough","Patient experiencing night sweats, weight loss, persistent cough. Monitoring and follow-up advised.",Cancer Risk
+PID1020,"night sweats, persistent cough, fatigue","Medical notes indicate night sweats, persistent cough, fatigue. Risk factors associated with cancer risk.",Cancer Risk
+PID1021,"weight loss, fatigue, night sweats","Observed symptoms include weight loss, fatigue, night sweats. Additional laboratory testing recommended.",Cancer Risk
+PID1022,"frequent urination, fatigue, thirst","Patient experiencing frequent urination, fatigue, thirst. Monitoring and follow-up advised.",Diabetes
+PID1023,"nausea, back pain, fatigue","Patient reports nausea, back pain, fatigue. Clinical evaluation suggests possible kidney disease.",Kidney Disease
+PID1024,"stable vitals, good sleep, mild fatigue","Medical notes indicate stable vitals, good sleep, mild fatigue. Risk factors associated with healthy.",Healthy
+PID1025,"frequent urination, fatigue, blurred vision","Patient experiencing frequent urination, fatigue, blurred vision. Monitoring and follow-up advised.",Diabetes
+PID1026,"shortness of breath, palpitations, dizziness","Patient experiencing shortness of breath, palpitations, dizziness. Monitoring and follow-up advised.",Heart Disease
+PID1027,"palpitations, dizziness, chest pain","Medical notes indicate palpitations, dizziness, chest pain. Risk factors associated with heart disease.",Heart Disease
+PID1028,"frequent urination, fatigue, thirst","Observed symptoms include frequent urination, fatigue, thirst. Additional laboratory testing recommended.",Diabetes
+PID1029,"thirst, fatigue, frequent urination","Patient reports thirst, fatigue, frequent urination. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1030,"night sweats, fatigue, persistent cough","Medical notes indicate night sweats, fatigue, persistent cough. Risk factors associated with cancer risk.",Cancer Risk
+PID1031,"blurred vision, fatigue, thirst","Patient reports blurred vision, fatigue, thirst. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1032,"normal appetite, stable vitals, good sleep","Symptoms recorded: normal appetite, stable vitals, good sleep. Physician suspects early-stage healthy.",Healthy
+PID1033,"dizziness, headache, blurred vision","Observed symptoms include dizziness, headache, blurred vision. Additional laboratory testing recommended.",Hypertension
+PID1034,"frequent urination, blurred vision, thirst","Patient experiencing frequent urination, blurred vision, thirst. Monitoring and follow-up advised.",Diabetes
+PID1035,"back pain, fatigue, nausea","Medical notes indicate back pain, fatigue, nausea. Risk factors associated with kidney disease.",Kidney Disease
+PID1036,"palpitations, dizziness, chest pain","Patient reports palpitations, dizziness, chest pain. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1037,"frequent urination, blurred vision, fatigue","Observed symptoms include frequent urination, blurred vision, fatigue. Additional laboratory testing recommended.",Diabetes
+PID1038,"frequent urination, blurred vision, thirst","Patient reports frequent urination, blurred vision, thirst. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1039,"dizziness, chest pain, shortness of breath","Medical notes indicate dizziness, chest pain, shortness of breath. Risk factors associated with heart disease.",Heart Disease
+PID1040,"dizziness, chest pain, palpitations","Patient reports dizziness, chest pain, palpitations. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1041,"nausea, swelling, fatigue","Medical notes indicate nausea, swelling, fatigue. Risk factors associated with kidney disease.",Kidney Disease
+PID1042,"persistent cough, fatigue, weight loss","Observed symptoms include persistent cough, fatigue, weight loss. Additional laboratory testing recommended.",Cancer Risk
+PID1043,"fatigue, swelling, nausea","Medical notes indicate fatigue, swelling, nausea. Risk factors associated with kidney disease.",Kidney Disease
+PID1044,"thirst, blurred vision, frequent urination","Patient reports thirst, blurred vision, frequent urination. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1045,"shortness of breath, dizziness, chest pain","Symptoms recorded: shortness of breath, dizziness, chest pain. Physician suspects early-stage heart disease.",Heart Disease
+PID1046,"swelling, fatigue, back pain","Symptoms recorded: swelling, fatigue, back pain. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1047,"persistent cough, night sweats, weight loss","Symptoms recorded: persistent cough, night sweats, weight loss. Physician suspects early-stage cancer risk.",Cancer Risk
+PID1048,"nausea, swelling, fatigue","Patient reports nausea, swelling, fatigue. Clinical evaluation suggests possible kidney disease.",Kidney Disease
+PID1049,"good sleep, normal appetite, stable vitals","Medical notes indicate good sleep, normal appetite, stable vitals. Risk factors associated with healthy.",Healthy
+PID1050,"weight loss, night sweats, persistent cough","Patient experiencing weight loss, night sweats, persistent cough. Monitoring and follow-up advised.",Cancer Risk
+PID1051,"fatigue, frequent urination, blurred vision","Medical notes indicate fatigue, frequent urination, blurred vision. Risk factors associated with diabetes.",Diabetes
+PID1052,"dizziness, palpitations, chest pain","Symptoms recorded: dizziness, palpitations, chest pain. Physician suspects early-stage heart disease.",Heart Disease
+PID1053,"frequent urination, fatigue, thirst","Medical notes indicate frequent urination, fatigue, thirst. Risk factors associated with diabetes.",Diabetes
+PID1054,"fatigue, blurred vision, frequent urination","Patient experiencing fatigue, blurred vision, frequent urination. Monitoring and follow-up advised.",Diabetes
+PID1055,"chest pain, shortness of breath, palpitations","Patient experiencing chest pain, shortness of breath, palpitations. Monitoring and follow-up advised.",Heart Disease
+PID1056,"headache, dizziness, chest tightness","Symptoms recorded: headache, dizziness, chest tightness. Physician suspects early-stage hypertension.",Hypertension
+PID1057,"stable vitals, normal appetite, mild fatigue","Patient reports stable vitals, normal appetite, mild fatigue. Clinical evaluation suggests possible healthy.",Healthy
+PID1058,"fatigue, thirst, blurred vision","Symptoms recorded: fatigue, thirst, blurred vision. Physician suspects early-stage diabetes.",Diabetes
+PID1059,"good sleep, stable vitals, mild fatigue","Patient reports good sleep, stable vitals, mild fatigue. Clinical evaluation suggests possible healthy.",Healthy
+PID1060,"night sweats, weight loss, persistent cough","Medical notes indicate night sweats, weight loss, persistent cough. Risk factors associated with cancer risk.",Cancer Risk
+PID1061,"shortness of breath, palpitations, chest pain","Observed symptoms include shortness of breath, palpitations, chest pain. Additional laboratory testing recommended.",Heart Disease
+PID1062,"headache, dizziness, chest tightness","Patient experiencing headache, dizziness, chest tightness. Monitoring and follow-up advised.",Hypertension
+PID1063,"headache, blurred vision, chest tightness","Symptoms recorded: headache, blurred vision, chest tightness. Physician suspects early-stage hypertension.",Hypertension
+PID1064,"dizziness, chest pain, palpitations","Patient reports dizziness, chest pain, palpitations. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1065,"stable vitals, normal appetite, mild fatigue","Patient experiencing stable vitals, normal appetite, mild fatigue. Monitoring and follow-up advised.",Healthy
+PID1066,"nausea, back pain, fatigue","Symptoms recorded: nausea, back pain, fatigue. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1067,"headache, dizziness, blurred vision","Medical notes indicate headache, dizziness, blurred vision. Risk factors associated with hypertension.",Hypertension
+PID1068,"fatigue, blurred vision, frequent urination","Observed symptoms include fatigue, blurred vision, frequent urination. Additional laboratory testing recommended.",Diabetes
+PID1069,"blurred vision, chest tightness, dizziness","Medical notes indicate blurred vision, chest tightness, dizziness. Risk factors associated with hypertension.",Hypertension
+PID1070,"palpitations, shortness of breath, dizziness","Patient reports palpitations, shortness of breath, dizziness. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1071,"dizziness, chest tightness, headache","Medical notes indicate dizziness, chest tightness, headache. Risk factors associated with hypertension.",Hypertension
+PID1072,"blurred vision, headache, chest tightness","Patient experiencing blurred vision, headache, chest tightness. Monitoring and follow-up advised.",Hypertension
+PID1073,"nausea, swelling, back pain","Patient reports nausea, swelling, back pain. Clinical evaluation suggests possible kidney disease.",Kidney Disease
+PID1074,"night sweats, weight loss, persistent cough","Symptoms recorded: night sweats, weight loss, persistent cough. Physician suspects early-stage cancer risk.",Cancer Risk
+PID1075,"blurred vision, thirst, fatigue","Symptoms recorded: blurred vision, thirst, fatigue. Physician suspects early-stage diabetes.",Diabetes
+PID1076,"blurred vision, dizziness, chest tightness","Patient experiencing blurred vision, dizziness, chest tightness. Monitoring and follow-up advised.",Hypertension
+PID1077,"fatigue, weight loss, persistent cough","Patient experiencing fatigue, weight loss, persistent cough. Monitoring and follow-up advised.",Cancer Risk
+PID1078,"back pain, fatigue, nausea","Patient experiencing back pain, fatigue, nausea. Monitoring and follow-up advised.",Kidney Disease
+PID1079,"stable vitals, normal appetite, good sleep","Patient experiencing stable vitals, normal appetite, good sleep. Monitoring and follow-up advised.",Healthy
+PID1080,"fatigue, nausea, swelling","Patient reports fatigue, nausea, swelling. Clinical evaluation suggests possible kidney disease.",Kidney Disease
+PID1081,"good sleep, normal appetite, stable vitals","Patient reports good sleep, normal appetite, stable vitals. Clinical evaluation suggests possible healthy.",Healthy
+PID1082,"night sweats, fatigue, persistent cough","Patient experiencing night sweats, fatigue, persistent cough. Monitoring and follow-up advised.",Cancer Risk
+PID1083,"back pain, fatigue, nausea","Symptoms recorded: back pain, fatigue, nausea. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1084,"chest tightness, blurred vision, dizziness","Patient reports chest tightness, blurred vision, dizziness. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1085,"frequent urination, thirst, blurred vision","Symptoms recorded: frequent urination, thirst, blurred vision. Physician suspects early-stage diabetes.",Diabetes
+PID1086,"thirst, blurred vision, fatigue","Observed symptoms include thirst, blurred vision, fatigue. Additional laboratory testing recommended.",Diabetes
+PID1087,"stable vitals, good sleep, mild fatigue","Patient experiencing stable vitals, good sleep, mild fatigue. Monitoring and follow-up advised.",Healthy
+PID1088,"chest pain, dizziness, palpitations","Symptoms recorded: chest pain, dizziness, palpitations. Physician suspects early-stage heart disease.",Heart Disease
+PID1089,"fatigue, night sweats, persistent cough","Medical notes indicate fatigue, night sweats, persistent cough. Risk factors associated with cancer risk.",Cancer Risk
+PID1090,"thirst, fatigue, blurred vision","Patient experiencing thirst, fatigue, blurred vision. Monitoring and follow-up advised.",Diabetes
+PID1091,"weight loss, fatigue, night sweats","Patient experiencing weight loss, fatigue, night sweats. Monitoring and follow-up advised.",Cancer Risk
+PID1092,"blurred vision, frequent urination, thirst","Observed symptoms include blurred vision, frequent urination, thirst. Additional laboratory testing recommended.",Diabetes
+PID1093,"persistent cough, weight loss, fatigue","Patient experiencing persistent cough, weight loss, fatigue. Monitoring and follow-up advised.",Cancer Risk
+PID1094,"chest tightness, blurred vision, headache","Patient reports chest tightness, blurred vision, headache. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1095,"chest tightness, dizziness, headache","Patient reports chest tightness, dizziness, headache. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1096,"stable vitals, mild fatigue, good sleep","Observed symptoms include stable vitals, mild fatigue, good sleep. Additional laboratory testing recommended.",Healthy
+PID1097,"dizziness, blurred vision, chest tightness","Patient experiencing dizziness, blurred vision, chest tightness. Monitoring and follow-up advised.",Hypertension
+PID1098,"fatigue, weight loss, persistent cough","Patient experiencing fatigue, weight loss, persistent cough. Monitoring and follow-up advised.",Cancer Risk
+PID1099,"blurred vision, chest tightness, headache","Patient reports blurred vision, chest tightness, headache. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1100,"weight loss, fatigue, persistent cough","Observed symptoms include weight loss, fatigue, persistent cough. Additional laboratory testing recommended.",Cancer Risk
+PID1101,"swelling, fatigue, back pain","Medical notes indicate swelling, fatigue, back pain. Risk factors associated with kidney disease.",Kidney Disease
+PID1102,"blurred vision, frequent urination, thirst","Medical notes indicate blurred vision, frequent urination, thirst. Risk factors associated with diabetes.",Diabetes
+PID1103,"headache, dizziness, blurred vision","Symptoms recorded: headache, dizziness, blurred vision. Physician suspects early-stage hypertension.",Hypertension
+PID1104,"headache, blurred vision, dizziness","Patient experiencing headache, blurred vision, dizziness. Monitoring and follow-up advised.",Hypertension
+PID1105,"frequent urination, thirst, blurred vision","Patient reports frequent urination, thirst, blurred vision. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1106,"good sleep, normal appetite, mild fatigue","Medical notes indicate good sleep, normal appetite, mild fatigue. Risk factors associated with healthy.",Healthy
+PID1107,"frequent urination, fatigue, thirst","Observed symptoms include frequent urination, fatigue, thirst. Additional laboratory testing recommended.",Diabetes
+PID1108,"weight loss, fatigue, night sweats","Symptoms recorded: weight loss, fatigue, night sweats. Physician suspects early-stage cancer risk.",Cancer Risk
+PID1109,"fatigue, night sweats, weight loss","Medical notes indicate fatigue, night sweats, weight loss. Risk factors associated with cancer risk.",Cancer Risk
+PID1110,"blurred vision, fatigue, frequent urination","Observed symptoms include blurred vision, fatigue, frequent urination. Additional laboratory testing recommended.",Diabetes
+PID1111,"chest tightness, dizziness, blurred vision","Symptoms recorded: chest tightness, dizziness, blurred vision. Physician suspects early-stage hypertension.",Hypertension
+PID1112,"normal appetite, mild fatigue, good sleep","Patient reports normal appetite, mild fatigue, good sleep. Clinical evaluation suggests possible healthy.",Healthy
+PID1113,"weight loss, night sweats, fatigue","Patient experiencing weight loss, night sweats, fatigue. Monitoring and follow-up advised.",Cancer Risk
+PID1114,"chest tightness, headache, dizziness","Patient reports chest tightness, headache, dizziness. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1115,"chest pain, dizziness, shortness of breath","Medical notes indicate chest pain, dizziness, shortness of breath. Risk factors associated with heart disease.",Heart Disease
+PID1116,"thirst, fatigue, frequent urination","Medical notes indicate thirst, fatigue, frequent urination. Risk factors associated with diabetes.",Diabetes
+PID1117,"shortness of breath, chest pain, dizziness","Symptoms recorded: shortness of breath, chest pain, dizziness. Physician suspects early-stage heart disease.",Heart Disease
+PID1118,"shortness of breath, dizziness, palpitations","Symptoms recorded: shortness of breath, dizziness, palpitations. Physician suspects early-stage heart disease.",Heart Disease
+PID1119,"stable vitals, good sleep, normal appetite","Medical notes indicate stable vitals, good sleep, normal appetite. Risk factors associated with healthy.",Healthy
+PID1120,"fatigue, nausea, swelling","Symptoms recorded: fatigue, nausea, swelling. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1121,"nausea, back pain, fatigue","Symptoms recorded: nausea, back pain, fatigue. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1122,"headache, blurred vision, dizziness","Patient experiencing headache, blurred vision, dizziness. Monitoring and follow-up advised.",Hypertension
+PID1123,"blurred vision, headache, dizziness","Symptoms recorded: blurred vision, headache, dizziness. Physician suspects early-stage hypertension.",Hypertension
+PID1124,"weight loss, persistent cough, night sweats","Patient reports weight loss, persistent cough, night sweats. Clinical evaluation suggests possible cancer risk.",Cancer Risk
+PID1125,"normal appetite, good sleep, stable vitals","Symptoms recorded: normal appetite, good sleep, stable vitals. Physician suspects early-stage healthy.",Healthy
+PID1126,"frequent urination, blurred vision, thirst","Symptoms recorded: frequent urination, blurred vision, thirst. Physician suspects early-stage diabetes.",Diabetes
+PID1127,"fatigue, persistent cough, weight loss","Patient experiencing fatigue, persistent cough, weight loss. Monitoring and follow-up advised.",Cancer Risk
+PID1128,"swelling, nausea, fatigue","Medical notes indicate swelling, nausea, fatigue. Risk factors associated with kidney disease.",Kidney Disease
+PID1129,"stable vitals, normal appetite, mild fatigue","Symptoms recorded: stable vitals, normal appetite, mild fatigue. Physician suspects early-stage healthy.",Healthy
+PID1130,"frequent urination, fatigue, blurred vision","Patient reports frequent urination, fatigue, blurred vision. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1131,"headache, dizziness, chest tightness","Symptoms recorded: headache, dizziness, chest tightness. Physician suspects early-stage hypertension.",Hypertension
+PID1132,"mild fatigue, good sleep, stable vitals","Observed symptoms include mild fatigue, good sleep, stable vitals. Additional laboratory testing recommended.",Healthy
+PID1133,"frequent urination, blurred vision, fatigue","Observed symptoms include frequent urination, blurred vision, fatigue. Additional laboratory testing recommended.",Diabetes
+PID1134,"palpitations, dizziness, chest pain","Medical notes indicate palpitations, dizziness, chest pain. Risk factors associated with heart disease.",Heart Disease
+PID1135,"blurred vision, thirst, fatigue","Patient reports blurred vision, thirst, fatigue. Clinical evaluation suggests possible diabetes.",Diabetes
+PID1136,"stable vitals, mild fatigue, normal appetite","Patient reports stable vitals, mild fatigue, normal appetite. Clinical evaluation suggests possible healthy.",Healthy
+PID1137,"blurred vision, chest tightness, headache","Medical notes indicate blurred vision, chest tightness, headache. Risk factors associated with hypertension.",Hypertension
+PID1138,"chest pain, palpitations, shortness of breath","Patient reports chest pain, palpitations, shortness of breath. Clinical evaluation suggests possible heart disease.",Heart Disease
+PID1139,"fatigue, weight loss, persistent cough","Observed symptoms include fatigue, weight loss, persistent cough. Additional laboratory testing recommended.",Cancer Risk
+PID1140,"fatigue, blurred vision, thirst","Symptoms recorded: fatigue, blurred vision, thirst. Physician suspects early-stage diabetes.",Diabetes
+PID1141,"thirst, fatigue, frequent urination","Observed symptoms include thirst, fatigue, frequent urination. Additional laboratory testing recommended.",Diabetes
+PID1142,"dizziness, headache, blurred vision","Patient reports dizziness, headache, blurred vision. Clinical evaluation suggests possible hypertension.",Hypertension
+PID1143,"chest pain, shortness of breath, palpitations","Observed symptoms include chest pain, shortness of breath, palpitations. Additional laboratory testing recommended.",Heart Disease
+PID1144,"fatigue, back pain, nausea","Patient experiencing fatigue, back pain, nausea. Monitoring and follow-up advised.",Kidney Disease
+PID1145,"fatigue, back pain, nausea","Medical notes indicate fatigue, back pain, nausea. Risk factors associated with kidney disease.",Kidney Disease
+PID1146,"fatigue, back pain, swelling","Symptoms recorded: fatigue, back pain, swelling. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1147,"back pain, fatigue, swelling","Symptoms recorded: back pain, fatigue, swelling. Physician suspects early-stage kidney disease.",Kidney Disease
+PID1148,"night sweats, fatigue, weight loss","Patient reports night sweats, fatigue, weight loss. Clinical evaluation suggests possible cancer risk.",Cancer Risk
+PID1149,"mild fatigue, stable vitals, good sleep","Patient reports mild fatigue, stable vitals, good sleep. Clinical evaluation suggests possible healthy.",Healthy

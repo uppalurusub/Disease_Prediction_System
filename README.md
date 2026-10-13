@@ -27,7 +27,7 @@ The application demonstrates a production-ready Machine Learning architecture in
 
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/129c19a4-0190-4ef9-b5ae-9b69c7cbcaf8" />
 
-```
+
 
 ---
 

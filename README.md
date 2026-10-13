@@ -25,13 +25,12 @@ The application demonstrates a production-ready Machine Learning architecture in
 
 # Architecture
 
-<<<<<<< HEAD
-![alt text](image.png)
-=======
+
+
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/129c19a4-0190-4ef9-b5ae-9b69c7cbcaf8" />
 
 
->>>>>>> 5311fbbf47616f81049eafe0862c8b50fd000eac
+
 
 ---
 

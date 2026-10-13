@@ -25,31 +25,8 @@ The application demonstrates a production-ready Machine Learning architecture in
 
 # Architecture
 
-```
-                  +----------------------+
-                  |   React Frontend     |
-                  +----------+-----------+
-                             |
-                             |
-                    REST API (Axios)
-                             |
-                             |
-                 +-----------v------------+
-                 |     FastAPI Backend    |
-                 +-----------+------------+
-                             |
-        -----------------------------------------
-        |                   |                  |
-        |                   |                  |
-   Prediction Service   ML Models      MLflow Tracking
-        |                   |                  |
-        |            Ensemble Model            |
-        |             TF-IDF Vectorizer        |
-        |             Label Encoder            |
-        -----------------------------------------
-                             |
-                      Patient Dataset
-                   Doctor Notes Dataset
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/129c19a4-0190-4ef9-b5ae-9b69c7cbcaf8" />
+
 ```
 
 ---
